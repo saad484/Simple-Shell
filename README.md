@@ -1,4 +1,6 @@
-![Alt text](image.png)
+<p align="center">
+  <img src="image.png" alt="Alt text">
+</p>
 
 ## Introduction
 This is a simple UNIX command line interpreter implemented in C. It provides a basic shell environment where users can execute commands.
