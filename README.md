@@ -46,4 +46,7 @@ hsh main.c shell.c test_ls_2
 $
 ```
 
+### Authors
 
+- [`@saad484`]() | Saad AIDDI
+- [`@SaadM33`]() | Saad Maaqili
